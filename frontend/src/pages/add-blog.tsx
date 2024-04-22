@@ -9,6 +9,7 @@ import ModalComponent from '@/components/modal';
 import CategoryPill from '@/components/category-pill';
 import { categories } from '@/utils/category-colors';
 
+//Adding sample comment
 type FormData = {
   title: string;
   authorName: string;
